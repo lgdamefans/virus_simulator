@@ -24,6 +24,7 @@ total unaffected: 81
 
 deathrate 94/2000 = 4.7%
 ![Image text](https://github.com/lgdamefans/virus_simulator/blob/master/img-folder/%E5%9B%BE%E7%89%871.png)
+
 Lockdown:
 
 total timesteps taken: 4335
@@ -36,6 +37,8 @@ total unaffected: 377
 
 deathrate = 2.75%
 
+![Image text](https://github.com/lgdamefans/virus_simulator/blob/master/img-folder/图片2.png)
+
 Lockdown(wash hands+wear masks)
 
 total timesteps taken: 4413
@@ -47,6 +50,8 @@ total recovered: 1306
 total unaffected: 670
 
 deathrate = 1.2%
+
+![Image text](https://github.com/lgdamefans/virus_simulator/blob/master/img-folder/图片3.png)
 
 此外，针对不同的人群密度，我也进行了一次实验，用来考察人群聚集度对病毒传播的影响，分别考察在高密度、中密度、低密度情况下疫情的传播状况
 

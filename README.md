@@ -23,6 +23,7 @@ total recovered: 1815
 total unaffected: 81
 
 deathrate 94/2000 = 4.7%
+
 ![Image text](https://github.com/lgdamefans/virus_simulator/blob/master/img-folder/%E5%9B%BE%E7%89%871.png)
 
 Lockdown:

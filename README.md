@@ -67,6 +67,8 @@ total unaffected: 34
 
 deathrate = 7.96%
 
+![Image text](https://github.com/lgdamefans/virus_simulator/blob/master/img-folder/图片4.png)
+
 Mid density(population = 2000)
 
 total timesteps taken: 3384
@@ -79,6 +81,8 @@ total unaffected: 81
 
 deathrate 94/2000 = 4.7%
 
+![Image text](https://github.com/lgdamefans/virus_simulator/blob/master/img-folder/图片1.png)
+
 Low density
 
 total timesteps taken: 1071
@@ -89,3 +93,4 @@ total recovered: 10
 
 total unaffected: 990
 
+![Image text](https://github.com/lgdamefans/virus_simulator/blob/master/img-folder/图片5.png)

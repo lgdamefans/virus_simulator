@@ -95,3 +95,5 @@ total recovered: 10
 total unaffected: 990
 
 ![Image text](https://github.com/lgdamefans/virus_simulator/blob/master/img-folder/图片5.png)
+
+Reference: https://github.com/paulvangentcom/python_corona_simulation
